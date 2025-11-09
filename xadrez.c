@@ -11,9 +11,9 @@ int main() {
     int numero_de_pontos_turisticos;
 
     printf("digite número da sua carta: \n");
-    scanf ('%c', &carta);
-
-    print("digite o código da sua carta: \n");
+    scanf("%c", &carta);
+    
+    printf("digite o código da sua carta: \n");
     scanf("%s", &codigo_da_carta);
 
     printf("digite o nome da cidade: \n");
